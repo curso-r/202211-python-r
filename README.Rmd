@@ -72,19 +72,19 @@ dplyr::mutate(
 ```
 
 
-## Scripts utilizados em aula
+## Notebooks utilizados em aula
 
 ```{r}
-pasta <- "exemplos_de_aula/"
+pasta <- "notebooks/"
 
 
 knitr::kable(
   tibble::tibble(
-    script = CursoRopen:::list_github_files(params$main_repo, pasta, ".R$"),
+    script = CursoRopen:::list_github_files(params$main_repo, pasta, ".ipynb$"),
     link = paste0(
       "https://github.com/curso-r/",
-      params$turma,
-      "/blob/master/",
+      params$main_repo,
+      "/blob/main/",
       script
     )
   ) %>%
