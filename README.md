@@ -3,44 +3,44 @@
 
 ## Informações importantes
 
-- Nosso blog: <https://curso-r.com/blog/>
+  - Nosso blog: <https://curso-r.com/blog/>
 
-- Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
-  [Zen do R](https://curso-r.github.io/zen-do-r/)
+  - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
+    [Zen do R](https://curso-r.github.io/zen-do-r/)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-- perguntas gerais sobre o curso deverão ser feitas no Classroom.
+  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-- perguntas sobre R, principalmente as que envolverem código, deverão
-  ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
+  - perguntas sobre R, principalmente as que envolverem código, deverão
+    ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
-| slides                                                                                                      | pdf                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
-| [01-introducao_ao_curso.html](https://curso-r.github.io/main-python-r/slides/01-introducao_ao_curso.html)   | [01-introducao_ao_curso.pdf](https://curso-r.github.io/main-python-r/slides/01-introducao_ao_curso.pdf)   |
-| [02-introducao_ao_python.html](https://curso-r.github.io/main-python-r/slides/02-introducao_ao_python.html) | [02-introducao_ao_python.pdf](https://curso-r.github.io/main-python-r/slides/02-introducao_ao_python.pdf) |
-| [03-instalacao.html](https://curso-r.github.io/main-python-r/slides/03-instalacao.html)                     | [03-instalacao.pdf](https://curso-r.github.io/main-python-r/slides/03-instalacao.pdf)                     |
-| [06-reticulate.html](https://curso-r.github.io/main-python-r/slides/06-reticulate.html)                     | [06-reticulate.pdf](https://curso-r.github.io/main-python-r/slides/06-reticulate.pdf)                     |
+| slides                                                                                                        | pdf                                                                                                         |
+| :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------- |
+| [01-introducao\_ao\_curso.html](https://curso-r.github.io/main-python-r/slides/01-introducao_ao_curso.html)   | [01-introducao\_ao\_curso.pdf](https://curso-r.github.io/main-python-r/slides/01-introducao_ao_curso.pdf)   |
+| [02-introducao\_ao\_python.html](https://curso-r.github.io/main-python-r/slides/02-introducao_ao_python.html) | [02-introducao\_ao\_python.pdf](https://curso-r.github.io/main-python-r/slides/02-introducao_ao_python.pdf) |
+| [03-instalacao.html](https://curso-r.github.io/main-python-r/slides/03-instalacao.html)                       | [03-instalacao.pdf](https://curso-r.github.io/main-python-r/slides/03-instalacao.pdf)                       |
+| [06-reticulate.html](https://curso-r.github.io/main-python-r/slides/06-reticulate.html)                       | [06-reticulate.pdf](https://curso-r.github.io/main-python-r/slides/06-reticulate.pdf)                       |
 
 ## Notebooks utilizados em aula
 
 | script                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------|
+| :------------------------------------------------------------------------------------------------------ |
 | [notebooks/01-intro.ipynb](https://github.com/curso-r/main-python-r/blob/main/notebooks/01-intro.ipynb) |
 
 ## Lição de casa
 
 | exercicio |
-|:----------|
+| :-------- |
 
 ## Trabalhos finais premiados
 
-| pasta_compactada |
-|:-----------------|
+| pasta\_compactada |
+| :---------------- |
 
 ## Material extra
 
@@ -49,7 +49,7 @@ que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema | Descrição |
-|:-----|:-----|:----------|
+| :--- | :--- | :-------- |
 
 ## Redes sociais da Curso-R
 
